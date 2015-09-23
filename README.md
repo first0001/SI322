@@ -1,3 +1,4 @@
 # SI322
 
-Hello FIRST
+Hello FIRST.
+This is a Readme file
